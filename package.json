@@ -16,7 +16,7 @@
     "schema-utils": "^4.3.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://lakshya-droid.github.io/lakshya-portfolio/",
+  "homepage": "https://laqsh.life",
 "scripts": {
   "start": "react-scripts start",
   "build": "react-scripts build",
