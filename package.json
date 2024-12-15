@@ -16,7 +16,7 @@
     "schema-utils": "^4.3.0",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/Lakshya-droid/lakshya-portfolio",
+  "homepage": "https://laqsh.life/lakshya-portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
